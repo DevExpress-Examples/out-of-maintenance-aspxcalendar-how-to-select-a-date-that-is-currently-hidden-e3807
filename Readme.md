@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [JScript.js](./CS/WebSite/JScript.js) (VB: [JScript.js](./VB/WebSite/JScript.js))
+<!-- default file list end -->
 # ASPxCalendar - How to select a date that is currently hidden
 
 
