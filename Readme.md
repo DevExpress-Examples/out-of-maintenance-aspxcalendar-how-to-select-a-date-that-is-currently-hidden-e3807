@@ -5,6 +5,9 @@
 * [JScript.js](./CS/WebSite/JScript.js) (VB: [JScript.js](./VB/WebSite/JScript.js))
 <!-- default file list end -->
 # ASPxCalendar - How to select a date that is currently hidden
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3807)**
+<!-- run online end -->
 
 
 <p>This example illustrates how make the specified date visible and after that select it using the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxEditorsScriptsASPxClientCalendar_SetSelectedDatetopic"><u>SetSelectedDate</u></a> method.</p><p><strong>See also:</strong><br />
