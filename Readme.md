@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # ASPxCalendar - How to select a date that is currently hidden
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3807)**
+**[[Run Online]](https://codecentral.devexpress.com/e3807/)**
 <!-- run online end -->
 
 
